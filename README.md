@@ -1,4 +1,4 @@
-# Tubes Alfiko – Analisis Kompleksitas Algoritma
+# Tubes Alfiko Fidanzato – Analisis Kompleksitas Algoritma
 
 Repository ini berisi implementasi dan analisis perbandingan efisiensi
 algoritma iteratif dan rekursif dalam menyelesaikan permasalahan
